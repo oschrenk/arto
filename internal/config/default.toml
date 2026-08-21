@@ -1,0 +1,9 @@
+# arto configuration
+# See: https://github.com/oschrenk/arto
+
+topic = ""
+ntfy_server = "https://ntfy.sh"
+timeout = 120
+plan_timeout = 300
+ntfy_username = ""
+ntfy_password = ""
